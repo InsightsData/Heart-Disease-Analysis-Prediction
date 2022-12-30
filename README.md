@@ -50,6 +50,16 @@ Visualizations
 
 Key indicators
 -
+ - General health
+ - Age
+ - Gender
+ - BMI
+ - Exercising frequency
+ - Having diabetes
+ - Having stroke
+ - Having difficulty in walking
+ - Number of times of falling in the past 12 months
+ - Number of teeth removed because of tooth decay or gum disease
 <img width="146" alt="image" src="https://user-images.githubusercontent.com/120230351/210031542-7e4e2234-01c7-4b46-8c63-22b3b7078bef.png">
 
 Prediction
