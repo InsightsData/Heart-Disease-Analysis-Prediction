@@ -36,7 +36,7 @@ Data cleaning
   - Remove NAs in HeartDisease & SleepTime & Marital & Fall & BMI
   - Convert certain variables to factors and add labels
 
-Visualizations
+Data visualization
 - 
 ![image](https://user-images.githubusercontent.com/120230351/210030327-3056964e-ce02-47df-ad59-669a702eb94a.png)
 ![image](https://user-images.githubusercontent.com/120230351/210030558-d4c9216c-0fa5-421c-8563-99794a374581.png)
