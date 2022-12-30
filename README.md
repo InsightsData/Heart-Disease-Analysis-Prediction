@@ -13,7 +13,7 @@ Overview
 
 Packages used in R
 -
-  - foreign, dplyr, ggplot2, lessR, scales, tidyverse
+  - foreign, dplyr, ggplot2, lessR, scales, tidyverse, gridExtra
 
 Data source
 -
