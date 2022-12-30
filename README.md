@@ -46,7 +46,7 @@ Visualizations
 ![image](https://user-images.githubusercontent.com/120230351/210030600-42a47d5c-ccdf-4c7d-ba8d-7fa60a9c5c2c.png)
 ![image](https://user-images.githubusercontent.com/120230351/210030642-358ea586-5f20-4857-a7aa-7cbfec8c3b94.png)
 ![image](https://user-images.githubusercontent.com/120230351/210030650-5fcba279-f3eb-4504-846d-c5fb8b9b0919.png)
-<img width="286" alt="image" src="https://user-images.githubusercontent.com/120230351/210031091-142fc2a2-f852-4bde-8403-8af8866dce27.png">
+<img width="520" alt="image" src="https://user-images.githubusercontent.com/120230351/210031091-142fc2a2-f852-4bde-8403-8af8866dce27.png">
 
 Key indicators
 -
